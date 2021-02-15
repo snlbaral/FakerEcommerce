@@ -1,0 +1,19 @@
+{
+  "name": "snlbaral/faker-ecommerce",
+  "description": "Ecommerce products names generate using fakerphp/faker",
+  "homepage": "https://github.com/snlbaral/FakerEcommerce",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    { "name": "Sunil Baral" }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "fakerphp/faker": "^1.9.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "FakerEcommerce\\": "src"
+    }
+  }
+}
