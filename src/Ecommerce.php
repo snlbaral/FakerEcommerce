@@ -1,6 +1,6 @@
 <?php
 
-namespace FakerEcommerce\Provider\en_US;
+namespace FakerEcommerce;
 
 class Ecommerce extends \Faker\Provider\Base
 {

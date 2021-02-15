@@ -4,6 +4,13 @@
   "homepage": "https://github.com/snlbaral/FakerEcommerce",
   "version": "1.0.0",
   "license": "MIT",
+  "prefer-stable": true,
+  "keywords": [
+      "snlbaral",
+      "faker",
+      "ecommerce",
+      "products"
+  ],
   "authors": [
     { "name": "Sunil Baral" }
   ],
