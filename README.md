@@ -1,5 +1,5 @@
 # FakerEcommerce
-=======================
+# =======================
 
 Ecommerce Products names generate using fakerphp/faker
 
@@ -27,7 +27,7 @@ $faker->addProvider(new \FakerEcommerce\Ecommerce($faker));
 $faker->televisions();
 $faker->mobilePhones();
 $faker->laptops();
-$faker->camers();
+$faker->cameras();
 $faker->mensClothing();
 $faker->womensClothing();
 $faker->jewelry();
