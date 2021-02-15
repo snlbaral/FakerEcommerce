@@ -13,6 +13,13 @@ Add the FakerEcommerce library to your `composer.json` file:
 composer require snlbaral/faker-ecommerce
 ```
 
+Init
+-----
+```php
+<?php
+include 'vendor/autoload.php';
+```
+
 Usage
 -----
 To  use this with [Faker](https://github.com/fzaninotto/Faker), you must add the `FakerEcommerce\Ecommerce` class to the Faker generator:
