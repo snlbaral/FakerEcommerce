@@ -2,7 +2,7 @@
   "name": "snlbaral/faker-ecommerce",
   "description": "Ecommerce products names generate using fakerphp/faker",
   "homepage": "https://github.com/snlbaral/FakerEcommerce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "prefer-stable": true,
   "keywords": [
